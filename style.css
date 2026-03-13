@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+a {
+  display: inline-block;
+  margin-bottom: 20px;
+  text-decoration: none;
+  color: blue;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
